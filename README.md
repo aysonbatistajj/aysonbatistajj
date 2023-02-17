@@ -1,6 +1,6 @@
 
-<div align="center">  
-       <img align="center" alt="Vscode"  width="16%" height="16%" src="https://user-images.githubusercontent.com/88747866/179570008-696c3b80-8bba-4e9d-8372-aff7a8ca8029.png">
+<div align="center">
+       <img align="center" alt="Vscode"  width="15%" height="16%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25002b55-2b45-4930-b51c-66cac4301588/dbvy9w8-de75ba06-037a-44c8-a3a7-6764978b2976.png/v1/fill/w_712,h_1122,strp/render_killua__hunter_x_hunter__by__tiozoro15_by_tiozoro15_dbvy9w8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEyMiIsInBhdGgiOiJcL2ZcLzI1MDAyYjU1LTJiNDUtNDkzMC1iNTFjLTY2Y2FjNDMwMTU4OFwvZGJ2eTl3OC1kZTc1YmEwNi0wMzdhLTQ0YzgtYTNhNy02NzY0OTc4YjI5NzYucG5nIiwid2lkdGgiOiI8PTcxMiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OzEjVwU9EfEwVp8zgQwtnK3yO62ws5caBTmZHz_W4K0"
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+repository!+:%29)](https://git.io/typing-svg) 
