@@ -10,8 +10,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysonbatistajj&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aysonbatistajj&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -40,9 +38,3 @@
 <br>
 </div>
   
-<h2 align="center">
-  
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ccagoiyeujk3n63qzohlvjtslm&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</h2>
-
-![snake gif](https://github.com/aysonbatistajj/aysonbatistajj/blob/output/github-contribution-grid-snake.svg)
