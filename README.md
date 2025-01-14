@@ -1,10 +1,4 @@
 
-<div align="center">
-       <img align="center" alt="Vscode"  width="15%" height="16%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25002b55-2b45-4930-b51c-66cac4301588/dbvy9w8-de75ba06-037a-44c8-a3a7-6764978b2976.png/v1/fill/w_712,h_1122,strp/render_killua__hunter_x_hunter__by__tiozoro15_by_tiozoro15_dbvy9w8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEyMiIsInBhdGgiOiJcL2ZcLzI1MDAyYjU1LTJiNDUtNDkzMC1iNTFjLTY2Y2FjNDMwMTU4OFwvZGJ2eTl3OC1kZTc1YmEwNi0wMzdhLTQ0YzgtYTNhNy02NzY0OTc4YjI5NzYucG5nIiwid2lkdGgiOiI8PTcxMiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OzEjVwU9EfEwVp8zgQwtnK3yO62ws5caBTmZHz_W4K0"
-</div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo(a);+me+chamo+Ayson+Rodrigues;atualmente+sou+estagiario+na+Bemol+Digital!!!)](https://git.io/typing-svg)
-
  <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aysonbatistajj&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ayson Batista github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysonbatistajj&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
