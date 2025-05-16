@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Ayson Rodrigues</h1>
 
 <p align="center">
-  🎓 Graduando de <strong>Engenharia de Software</strong><br>
+  🎓 Graduando em <strong>Engenharia de Software</strong><br>
   💼 Estagiário de Desenvolvimento na <strong>Bemol Digital</strong><br>
   🚀 Apaixonado por <strong>Desenvolvimento Web</strong>, <strong>APIs</strong> e <strong>DevOps</strong>
 </p>
